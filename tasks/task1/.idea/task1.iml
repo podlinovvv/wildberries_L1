@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="Go" enabled="true" />
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../question1" />
+    <content url="file://$MODULE_DIR$/../question10" />
+    <content url="file://$MODULE_DIR$/../question11" />
+    <content url="file://$MODULE_DIR$/../question12" />
+    <content url="file://$MODULE_DIR$/../question13" />
+    <content url="file://$MODULE_DIR$/../question14" />
+    <content url="file://$MODULE_DIR$/../question1v2" />
+    <content url="file://$MODULE_DIR$/../question5" />
+    <content url="file://$MODULE_DIR$/../question7" />
+    <content url="file://$MODULE_DIR$/../question8" />
+    <content url="file://$MODULE_DIR$/../question9" />
+    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$/../task10" />
+    <content url="file://$MODULE_DIR$/../task11" />
+    <content url="file://$MODULE_DIR$/../task12" />
+    <content url="file://$MODULE_DIR$/../task13" />
+    <content url="file://$MODULE_DIR$/../task15" />
+    <content url="file://$MODULE_DIR$/../task16" />
+    <content url="file://$MODULE_DIR$/../task17" />
+    <content url="file://$MODULE_DIR$/../task18" />
+    <content url="file://$MODULE_DIR$/../task19" />
+    <content url="file://$MODULE_DIR$/../task2" />
+    <content url="file://$MODULE_DIR$/../task20" />
+    <content url="file://$MODULE_DIR$/../task21" />
+    <content url="file://$MODULE_DIR$/../task22" />
+    <content url="file://$MODULE_DIR$/../task23" />
+    <content url="file://$MODULE_DIR$/../task24" />
+    <content url="file://$MODULE_DIR$/../task25" />
+    <content url="file://$MODULE_DIR$/../task26" />
+    <content url="file://$MODULE_DIR$/../task3" />
+    <content url="file://$MODULE_DIR$/../task4" />
+    <content url="file://$MODULE_DIR$/../task5" />
+    <content url="file://$MODULE_DIR$/../task6" />
+    <content url="file://$MODULE_DIR$/../task7" />
+    <content url="file://$MODULE_DIR$/../task8" />
+    <content url="file://$MODULE_DIR$/../task9" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
